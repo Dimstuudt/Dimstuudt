@@ -85,12 +85,10 @@
 
 ## 🎮 Interests & Hobbies
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.25rem; color:#AAA; max-width: 700px; margin: 20px auto 40px auto; line-height: 1.6;">
-  <span style="color:#00FFF7;">✨</span> <b style="color:#FF00D4;">Anime & Manhwa Enthusiast</b> — Immersed in stories that inspire, thrill, and move.<br />
-  <span style="color:#00FF94;">🎮</span> Gamer — Roblox & Mobile Legends fuel my competitive spirit.<br />
-  <span style="color:#FF00D4;">📚</span> Lifelong learner — Always leveling up my coding skills and creativity.<br />
-  <span style="color:#00FFF7;">🎨</span> Vibe Coder — Crafting elegant, user-friendly web experiences with passion.
-</p>
+✨ **Anime & Manhwa Enthusiast** — Immersed in stories that inspire, thrill, and move.  
+🎮 **Gamer** — Roblox & Mobile Legends fuel my competitive spirit.  
+📚 **Lifelong learner** — Always leveling up my coding skills and creativity.  
+🎨 **Vibe Coder** — Crafting elegant, user-friendly web experiences with passion.
 
 ---
 
