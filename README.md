@@ -1,18 +1,19 @@
+<p align="center" style="margin:0;">
+  <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; border-radius:12px; overflow:hidden; border:1px solid #FF2D20;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eG9sN3g1djU0cXNnNzhranB4eGhrbTFnZHMybzcxczgwMjg0NXVkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b5tk2in7FRuw/giphy.gif" 
+         alt="Watch Video" 
+         width="650" 
+         style="display:block; max-height:200px; object-fit:cover; vertical-align:top;" />
+  </a>
+</p>
+
+
 <h1 align="center" style="font-family: 'Fira Code', monospace; color: #00FFF7; font-weight: 900; text-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7;">
   Hi 👋, I'm <span style="color:#FF00D4; text-shadow: 0 0 10px #ff00d4, 0 0 20px #ff00d4;">Dimstuudt</span>
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7,FF00D4,00FF94&width=700&lines=Junior+Fullstack+Developer;SMKN+7+Baleendah;Anime+%26+Manhwa+Enthusiast;Vibe+Coder+%26+Gamer" alt="Typing SVG" />
-</p>
-
-<p align="center" style="margin:0;">
-  <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; border-radius:12px; overflow:hidden; border:1px solid #FF2D20;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlb3AzNG1rN2k3ZTEzYzljaXBpMTZsaTJ1aGI5eDdjZzc4ZHM3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWtVYDHIxgGgE/giphy.gif" 
-         alt="Watch Video" 
-         width="650" 
-         style="display:block; max-height:350px; object-fit:cover; vertical-align:top;" />
-  </a>
 </p>
 
 
