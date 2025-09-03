@@ -171,6 +171,17 @@
 <p align="center" style="margin-bottom: 50px;"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGw4cXZuZHY5YmJtaDBsODZiMXcza2l2Znd0aHh4OGFyeXY1d3YzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Psu5Xo8Ve5wNa/giphy.gif" alt="Anime Coding" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FFF7;" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF2czc4NThpcTB5cmV3ZWt6ZGZzOG55d2hhNGdzdTM1dXBxaDRtbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hAgYucX9zaZ32krFFI/giphy.gif" alt="Anime Vibes" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #FF00D4;" /> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODJwcDJydDhoc2c5ZnlvazRnNXhydnB4d3Q5bDgwcTdveWtuMjRibCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lrDAgsYq0eomhwoESZ/giphy.gif" alt="Anime Gaming" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FF94;" /> </p>
 
 ---
+<p align="center" style="margin-top: 20px;">
+  <!-- Spotify Dark Red -->
+  <a href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa" target="_blank">
+    <img
+      src="https://i.scdn.co/image/ab67616d0000b2733e6f3e0c9e8a9b8c9e8a9b8c"
+      alt="Dark Red - Steve Lacy"
+      width="250"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+    />
+  </a>
+</p>
 
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 0.9rem; color:#555; margin-bottom: 40px;">
   Made with ❤️ by <b style="color:#FF00D4;">Dimstuudt</b> — The Vibe Coder | Keep coding, keep vibing!
