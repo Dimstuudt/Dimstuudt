@@ -172,16 +172,7 @@
 
 ---
 <p align="center" style="margin-top: 20px;">
-  <!-- Spotify Dark Red -->
-  <a href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa" target="_blank">
-    <img
-      src="https://i.scdn.co/image/ab67616d0000b2733e6f3e0c9e8a9b8c9e8a9b8c"
-      alt="Dark Red - Steve Lacy"
-      width="250"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
-    />
-  </a>
-</p>
+
 
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 0.9rem; color:#555; margin-bottom: 40px;">
   Made with ❤️ by <b style="color:#FF00D4;">Dimstuudt</b> — The Vibe Coder | Keep coding, keep vibing!
