@@ -8,12 +8,13 @@
 
 <p align="center" style="margin:0;">
   <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; border-radius:12px; overflow:hidden; border:1px solid #FF2D20;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmF5cjRiOHplcTI1aWF0NWlteDBoaWJ2emUzcjE4b3k4MjkyY3A0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIYVXzVcdIDp7pgWlw/giphy.gif" 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhpaHN0aHdoejBpbmtxd2x6bHJ4MDljczJoNjFlNjZ2bjZ1dnMxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIYVXzVcdIDp7pgWlw/giphy.gif" 
          alt="Watch Video" 
          width="650" 
          style="display:block; max-height:350px; object-fit:cover; vertical-align:top;" />
   </a>
 </p>
+
 
 
 ---
