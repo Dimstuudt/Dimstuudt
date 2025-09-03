@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eG9sN3g1djU0cXNnNzhranB4eGhrbTFnZHMybzcxczgwMjg0NXVkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b5tk2in7FRuw/giphy.gif" alt="Watch Video" width="650" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer">
