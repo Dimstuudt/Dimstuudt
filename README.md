@@ -171,13 +171,9 @@
 
 ---
 
-## ⚡ Fun Animated GIFs
+## ⚡ Fun Animated Anime GIFs
 
-<p align="center" style="margin-bottom: 50px;">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FFF7;" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Anime Vibes" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #FF00D4;" />
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Gaming Fun" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FF94;" />
-</p>
+<p align="center" style="margin-bottom: 50px;"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGw4cXZuZHY5YmJtaDBsODZiMXcza2l2Znd0aHh4OGFyeXY1d3YzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Psu5Xo8Ve5wNa/giphy.gif" alt="Anime Coding" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FFF7;" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF2czc4NThpcTB5cmV3ZWt6ZGZzOG55d2hhNGdzdTM1dXBxaDRtbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hAgYucX9zaZ32krFFI/giphy.gif" alt="Anime Vibes" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #FF00D4;" /> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODJwcDJydDhoc2c5ZnlvazRnNXhydnB4d3Q5bDgwcTdveWtuMjRibCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lrDAgsYq0eomhwoESZ/giphy.gif" alt="Anime Gaming" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 0 20px #00FF94;" /> </p>
 
 ---
 
