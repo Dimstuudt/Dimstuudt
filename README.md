@@ -51,31 +51,26 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="border-radius: 15px; overflow: hidden;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Dimstuudt&show_icons=true&theme=radical&count_private=true&hide_border=true"
-      alt="GitHub Stats"
-      height="180"
-      style="display: block;"
-    />
-  </div>
-  <div style="border-radius: 15px; overflow: hidden;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimstuudt&layout=compact&theme=radical&hide_border=true"
-      alt="Top Languages"
-      height="180"
-      style="display: block;"
-    />
-  </div>
-  <div style="border-radius: 15px; overflow: hidden;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Dimstuudt&theme=radical&hide_border=true"
-      alt="GitHub Streak"
-      height="180"
-      style="display: block;"
-    />
-  </div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dimstuudt&show_icons=true&theme=radical&count_private=true&hide_border=true"
+    alt="GitHub Stats"
+    height="140"
+    style="border-radius: 15px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimstuudt&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+    height="140"
+    style="border-radius: 15px;"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dimstuudt&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="140"
+    style="border-radius: 15px;"
+  />
 </p>
+
 
 ---
 
