@@ -9,6 +9,7 @@
 # Hi 👋, I'm **Dimstuudt**
 
 > Junior Fullstack Developer  | Vibe Coder & Gamer
+
 > SMKN 7 Baleendah | Anime & Manhwa Enthusiast    
 ---
 
