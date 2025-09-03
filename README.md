@@ -6,12 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF7,FF00D4,00FF94&width=700&lines=Junior+Fullstack+Developer;SMKN+7+Baleendah;Anime+%26+Manhwa+Enthusiast;Vibe+Coder+%26+Gamer" alt="Typing SVG" />
 </p>
 
-<p align="center" style="margin:0;">
-  <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block; border-radius:12px; overflow:hidden; border:1px solid #FF2D20;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhpaHN0aHdoejBpbmtxd2x6bHJ4MDljczJoNjFlNjZ2bjZ1dnMxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIYVXzVcdIDp7pgWlw/giphy.gif" 
-         alt="Watch Video" 
-         width="650" 
-         style="display:block; max-height:350px; object-fit:cover; vertical-align:top;" />
+<p align="center">
+  <a href="https://youtu.be/ugZ2EsnnGxk" target="_blank" rel="noopener noreferrer">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmF5cjRiOHplcTI1aWF0NWlteDBoaWJ2emUzcjE4b3k4MjkyY3A0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIYVXzVcdIDp7pgWlw/giphy.gif" alt="Watch Video" width="600" style="border-radius:12px; box-shadow: 0 4px 15px rgba(247, 42, 107, 0.5);" />
   </a>
 </p>
 
