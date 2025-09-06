@@ -168,3 +168,5 @@
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 0.9rem; color:#555; margin-bottom: 40px;">
   Made with ❤️ by <b style="color:#FF00D4;">Dimstuudt</b> — The Vibe Coder | Keep coding, keep vibing!
 </p>
+
+
