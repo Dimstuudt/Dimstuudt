@@ -127,14 +127,13 @@
 
 ## 💡 Fun Facts
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.1rem; color:#AAA; max-width: 650px; margin: auto; line-height: 1.6;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>🎬 Can binge-watch an entire anime season in one weekend — no regrets!</li>
-    <li>☕ Coffee is my coding fuel during late-night sessions.</li>
-    <li>📖 Huge fan of manga and manhwa — always open to recommendations!</li>
-    <li>🌱 Believe in writing clean, maintainable, and readable code.</li>
-  </ul>
-</p>
+<ul class="list-none text-gray-500 font-mono text-base space-y-2">
+  <li>🎬 Can binge-watch an entire anime season in one weekend — no regrets!</li>
+  <li>☕ Coffee & matcha are my fuel for late-night coding sessions.</li>
+  <li>📖 Huge fan of manga and manhwa — always open to recommendations!</li>
+  <li>🌱 Believe in clean code: neat, maintainable, and readable.</li>
+  <li>🥦 Not a big fan of veggies, but absolutely love matcha.</li>
+</ul>
 
 ---
 
@@ -153,7 +152,7 @@
 ## 🌟 Quote to Live By
 
 <p align="center" style="font-family: 'Fira Code', monospace; font-style: italic; font-size: 1.4rem; color:#00FFF7; margin-bottom: 50px;">
-  "Code is like humor. When you have to explain it, it’s bad." — Cory House
+  "Rajin adalah caraku untuk cepat bermalas-malasan." - Ndydawst~
 </p>
 
 ---
