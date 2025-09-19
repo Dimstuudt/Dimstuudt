@@ -13,17 +13,23 @@
 > SMKN 7 Baleendah | Anime & Manhwa Enthusiast    
 ---
 
-## 🚀 Current Project
+## 🚀 Current Project (In Progress)
 
 <p align="center" style="font-size: 1.3rem; color:#00FFF7; font-weight: 700; text-shadow: 0 0 10px #00fff7;">
-  🌐 Developing a <span style="color:#FF00D4; text-shadow: 0 0 10px #ff00d4;">Technology Articles Website</span> with futuristic tools:
+  🌐 Developing a <span style="color:#FF00D4; text-shadow: 0 0 10px #ff00d4;">Online Library Web App</span> with futuristic tools:
 </p>
 
 <ul style="max-width: 650px; margin: auto; font-size: 1.15rem; color:#AAA; line-height: 1.6; font-family: 'Fira Code', monospace;">
-  <li>💻 <b>Backend:</b> Laravel (PHP) & Node.js</li>
+  <li>💻 <b>Backend:</b> Laravel (PHP) + Inertia.js</li>
   <li>🎨 <b>Frontend:</b> Vue.js + Tailwind CSS for sleek, responsive UI</li>
+  <li>📚 <b>Features:</b> Category management, book tracking, user roles, and library system</li>
   <li>⚡ <b>Deployment & Automation:</b> Vercel, GitHub Actions, CI/CD pipelines</li>
+  <li>⏳ <b>Status:</b> Currently Developing 🚧</li>
 </ul>
+
+<p align="center" style="font-size: 1rem; color:#AAA; font-family: 'Fira Code', monospace;">
+  Stay tuned — more features & updates coming soon!
+</p>
 
 ---
 
